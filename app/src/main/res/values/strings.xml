@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Personal Health</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="user_name">Welcome J.D.!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--sidebar menu-->
+    <string name="points_accumulated">Your points</string>
+    <string name="track_eating">Eating habits</string>
+    <string name="doctor_notes">Doctor says...</string>
+    <string name="workout">Workout summary</string>
+    <string name="toDoList">My To-do list</string>
+    <string name="sample_monday">Monday\'s schedule</string>
+    <string name="addToDoList">Add to-do list</string>
+    <string name="profile">Profile</string>
+
+    <!--points page-->
+    <string name="congrats_message">Congratulations John!</string>
+    <string name="user_points">%s Points</string>
+    <string name="points_message">You have accumulated</string>
+    <string name="points_title_page">Points Summary</string>
+    <string name="points_summary"><u>Detailed Points Summary</u></string>
+    <string name="earn_points"><u>Earn more points..</u></string>
+    <string name="sample_points">186 Points</string>
+</resources>
